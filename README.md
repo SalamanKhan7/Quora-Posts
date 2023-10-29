@@ -1,2 +1,2 @@
 # Quora-Posts
-It is like to Quora-Posts.
+Try to making it similar to Quora-Posts.
