@@ -1,0 +1,28 @@
+h1 {
+  color: #f70911;
+  text-align: center;
+}
+.post {
+  background-color: #e09f3e;
+  margin-bottom: 2px;
+}
+.user {
+  font-style: italic;
+  color: #ae050b;
+
+  font-size: 20px;
+}
+body {
+  background-color: #fff3b0;
+}
+a {
+  color: yellow;
+}
+Button {
+  background-color: #9e2a2b;
+  color: black;
+}
+.a1 {
+  color: blue;
+  font-size: 30px;
+}
